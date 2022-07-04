@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile 👋
 
 
-<iframe src="https://giphy.com/embed/tJDz8mPYyUJZ1Pg9fA" width="480" height="165" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dbsppro-dbsp-be-a-peer-lets-code-better-world-tJDz8mPYyUJZ1Pg9fA">via GIPHY</a></p>
+<img src="https://giphy.com/embed/tJDz8mPYyUJZ1Pg9fA" width="480" height="165" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
 ### About me
