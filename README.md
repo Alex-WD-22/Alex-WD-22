@@ -20,13 +20,18 @@ I'm a Junior Full Stack Developer based in Freiburg, Germany. Currently searchin
 <img align="left" alt="html" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" alt="css" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img align="left" alt="git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
-<img align="left" alt="github" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png"/>
+<img align="left" alt="github" width="30px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png"/>
 
 <br />
 
 ### contact
 
 [E-Mail](alexander.nerz@web.de) or [LinkedIn](www.linkedin.com/in/alexander-nerz)
+
+#### Stats
+
+
+<img align="center" alt="alexander-nerz-stats" src="https://github-readme-stats.vercel.app/api?username=Alex-WD-22"/>
 
 
 <!--
