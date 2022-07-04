@@ -1,5 +1,9 @@
 # Welcome to my GitHub profile 👋
 
+
+<iframe src="https://giphy.com/embed/tJDz8mPYyUJZ1Pg9fA" width="480" height="165" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dbsppro-dbsp-be-a-peer-lets-code-better-world-tJDz8mPYyUJZ1Pg9fA">via GIPHY</a></p>
+
+
 ### About me
 
 I'm a Junior Full Stack Developer based in Freiburg, Germany. Currently searching for an opportunity to work with a team, a mentor who guides me through best practices and points out my mistakes to become the best version of myself.
