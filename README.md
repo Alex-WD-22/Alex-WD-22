@@ -1,8 +1,8 @@
 # Welcome to my GitHub profile 👋
 
 
-<img alt="let's code" src="https://giphy.com/embed/tJDz8mPYyUJZ1Pg9fA" width="480" height="165" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-
+<!-- <img alt="let's code" src="https://giphy.com/embed/tJDz8mPYyUJZ1Pg9fA" width="480" height="165" frameBorder="0" class="giphy-embed" allowFullScreen></img> -->
+![let's code](https://giphy.com/embed/tJDz8mPYyUJZ1Pg9fA)
 
 ### About me
 
