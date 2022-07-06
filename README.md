@@ -1,9 +1,5 @@
-# Welcome to my GitHub profile 👋
-
-
-![let's code](../../../Downloads/giphy.gif)
-
-## About me
+# Welcome to my GitHub profile 👋 I'm Alex 
+![](../../Resume/Alexander%20Nerz%20(5).png)
 
 I'm a Junior Full Stack Developer based in Freiburg, Germany. Currently searching for an opportunity to work with a team, a mentor who guides me through best practices and points out my mistakes to become the best version of myself.
 
