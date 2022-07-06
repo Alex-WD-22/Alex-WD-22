@@ -4,7 +4,7 @@ I'm a Junior Full Stack Developer based in Freiburg, Germany. Currently searchin
 
 ## Check out my portfolio
 
-[anerz.com](https://anerz.com)
+ :point_right:  [anerz.com](https://anerz.com) :point_left:
 
 
 ## Technologies
@@ -25,8 +25,7 @@ I'm a Junior Full Stack Developer based in Freiburg, Germany. Currently searchin
 
 ## contact 📫
 
- :point_right: [E-Mail](alexander.nerz@web.de) or [LinkedIn](www.linkedin.com/in/alexander-nerz) :point_left:
-
+  [E-Mail](alexander.nerz@web.de) or [LinkedIn](www.linkedin.com/in/alexander-nerz) 
 ## Stats
 
 
