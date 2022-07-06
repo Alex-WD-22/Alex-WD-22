@@ -1,19 +1,18 @@
 # Welcome to my GitHub profile 👋
 
 
-<!-- <img alt="let's code" src="https://giphy.com/embed/tJDz8mPYyUJZ1Pg9fA" width="480" height="165" frameBorder="0" class="giphy-embed" allowFullScreen></img> -->
-![let's code](https://giphy.com/embed/tJDz8mPYyUJZ1Pg9fA)
+![let's code](../../../Downloads/giphy.gif)
 
-### About me
+## About me
 
 I'm a Junior Full Stack Developer based in Freiburg, Germany. Currently searching for an opportunity to work with a team, a mentor who guides me through best practices and points out my mistakes to become the best version of myself.
 
-### Check out my portfolio
+## Check out my portfolio
 
 [anerz.com](https://anerz.com)
 
 
-### Technologies
+## Technologies
 
 <img align="left" alt="js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="react" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
@@ -27,11 +26,11 @@ I'm a Junior Full Stack Developer based in Freiburg, Germany. Currently searchin
 
 <br />
 
-### contact
+## contact
 
 [E-Mail](alexander.nerz@web.de) or [LinkedIn](www.linkedin.com/in/alexander-nerz)
 
-#### Stats
+## Stats
 
 
 <img align="center" alt="alexander-nerz-stats" src="https://github-readme-stats.vercel.app/api?username=Alex-WD-22"/>
