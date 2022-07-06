@@ -1,5 +1,4 @@
-# Welcome to my GitHub profile 👋 I'm Alex 
-![](../../Resume/Alexander%20Nerz%20(5).png)
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Alex, Welcome to my GitHub profile 
 
 I'm a Junior Full Stack Developer based in Freiburg, Germany. Currently searching for an opportunity to work with a team, a mentor who guides me through best practices and points out my mistakes to become the best version of myself.
 
@@ -22,9 +21,9 @@ I'm a Junior Full Stack Developer based in Freiburg, Germany. Currently searchin
 
 <br />
 
-## contact
+## contact 📫
 
-[E-Mail](alexander.nerz@web.de) or [LinkedIn](www.linkedin.com/in/alexander-nerz)
+ :point_right: [E-Mail](alexander.nerz@web.de) or [LinkedIn](www.linkedin.com/in/alexander-nerz) :point_left:
 
 ## Stats
 
