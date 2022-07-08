@@ -23,7 +23,7 @@ I'm a Junior Full Stack Developer based in Freiburg, Germany. Currently searchin
 
 <br />
 
-## contact 📫
+## Contact 📫
 
   [E-Mail](alexander.nerz@web.de) or [LinkedIn](www.linkedin.com/in/alexander-nerz) 
 ## Stats
