@@ -2,16 +2,15 @@
 
 I'm a Junior Full Stack Developer based in Freiburg, Germany. Currently searching for an opportunity to work with a team, a mentor who guides me through best practices and points out my mistakes to become the best version of myself.
 
-## Check out my portfolio
 
-<div style="text-align:center">:point_right: [anerz.com](https://anerz.com) :point_left: </div>
+<div style="text-align:center">:point_right: [Check out my portfolio](https://anerz.com) :point_left: </div>
 
 
 ## Technologies & Tools
 
 
 <div style="display:flex;flex-direction:row; ">
-<div style="text-align:center">
+<div style="justify-content:center">
 <p style="text-align:center">Frontend: </p>
 
 <img style="margin:1px" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
