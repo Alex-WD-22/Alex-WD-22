@@ -27,7 +27,7 @@ I'm a Junior Full Stack Developer based in Freiburg, Germany. Currently searchin
 
 
 <img align="center" alt="alexander-nerz-stats" src="https://github-readme-stats.vercel.app/api?username=Alex-WD-22"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Alex-WD-22&count_private=true&theme=radical&show_icons=true" />
 
 <!--
 **Alex-WD-22/Alex-WD-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
