@@ -3,7 +3,7 @@
 I'm a Junior Full Stack Developer based in Freiburg, Germany. Currently searching for an opportunity to work with a team, a mentor who guides me through best practices and points out my mistakes to become the best version of myself.
 
 
-<p style="text-align:center">:point_right: [Check out my portfolio](www.anerz.com) :point_left: </p>
+<span style="text-align:center">:point_right: [Check out my portfolio](www.anerz.com) :point_left: </span>
 
 
 ## Technologies & Tools
@@ -43,6 +43,7 @@ I'm a Junior Full Stack Developer based in Freiburg, Germany. Currently searchin
  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/alexander-nerz)  <br/>
  
  📫 alexander.nerz@web.de
+</div> 
 </div>
 </div>
 <!--
