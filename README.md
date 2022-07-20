@@ -3,7 +3,7 @@
 I'm a Junior Full Stack Developer based in Freiburg, Germany. Currently searching for an opportunity to work with a team, a mentor who guides me through best practices and points out my mistakes to become the best version of myself.
 
 
-<p style="text-align:center">:point_right: [Check out my portfolio](https://anerz.com) :point_left: </p>
+<p style="text-align:center">:point_right: [Check out my portfolio](www.anerz.com) :point_left: </p>
 
 
 ## Technologies & Tools
