@@ -1,7 +1,8 @@
-# Hi :wave: I'm Alex, and Welcome to my GitHub profile 
+# Hi :wave: I'm Alex a Full Stack Developer 
 
-I'm a Junior Full Stack Developer based in Freiburg, Germany. Currently searching for an opportunity to work with a team, a mentor who guides me through best practices and points out my mistakes to become the best version of myself.
+I'm a web developer who's focused on learning constantly. Currently searching for an opportunity to work with a team, a mentor who guides me through best practices and points out my mistakes to become the best version of myself.
 
+In my previous career, I felt like I reached an end even though I was just at the beginning. I enjoyed working in all my previous jops, but for me coding was the spark to forfillment I didn't had previously. 
 
 <span style="text-align:center;">:point_right: [Check out my portfolio](www.anerz.com) :point_left: </span>
 
