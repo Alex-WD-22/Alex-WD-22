@@ -1,6 +1,6 @@
-# Hi :wave: I'm Alex a Full Stack Developer 
+# Hi :wave: I'm Alex and welcome to my GitHub profile 
 
-I'm a web developer who's focused on learning constantly. Currently searching for an opportunity to work with a team, a mentor who guides me through best practices and points out my mistakes to become the best version of myself.
+I'm a Full Stack Web Developer who's focused on learning constantly. Currently searching for an opportunity to work with a team, a mentor who guides me through best practices and points out my mistakes to become the best version of myself.
 
 In my previous career, I felt like I reached an end even though I was just at the beginning. I enjoyed working in all my previous jops, but for me coding was the spark to forfillment I didn't had previously. 
 
