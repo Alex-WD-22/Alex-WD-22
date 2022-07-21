@@ -9,7 +9,9 @@ In my previous career, I felt like I reached an end even though I was just at th
 
 ## Technologies & Tools
 
-
+<table style="border: 1px solid black;" >
+<tr>
+<td style="border: 1px solid black;">
 <span style="display:flex;flex-direction:column; ">
 <span style="justify-content:center">
 Frontend:<br />
@@ -33,12 +35,15 @@ Frontend:<br />
 <img style="text-align:center;margin:1px" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> 
 <img style="text-align:center;margin:1px" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white.png" />
 </div> <br />
-
+</td>
+<td>
 <br />
 <span style="justify-content:center">
 <img style="text-align:center;margin:2px 20px" src="https://github-readme-stats.vercel.app/api?username=Alex-WD-22&count_private=true&theme=radical&show_icons=true" /> <br />
 <img style="text-align:center;margin:2px 20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-WD-22&theme=blue-green" />
-
+</td>
+</tr>
+</table>
 
 
  ## Let's stay in touch!   
