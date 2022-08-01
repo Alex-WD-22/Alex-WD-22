@@ -4,7 +4,7 @@ I'm a Full Stack Web Developer who's focused on learning constantly. Currently s
 
 In my previous career, I felt like I reached an end even though I was just at the beginning. I enjoyed working in all my previous jops, but for me coding was the spark to forfillment I didn't had previously. 
 
-<span style="text-align:center;">:point_right: [Check out my portfolio](www.anerz.com) :point_left: </span>
+<span style="text-align:center;">:point_right: [Check out my portfolio](https://anerz.com) :point_left: </span>
 
 
 ## Technologies & Tools
