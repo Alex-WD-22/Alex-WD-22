@@ -6,6 +6,7 @@ In my previous career, I felt like I reached an end even though I was just at th
 
 <span style="text-align:center;">:point_right: [Check out my portfolio](https://anerz.com) :point_left: </span>
 
+[![](https://visitcount.itsvg.in/api?id=rammcodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Technologies & Tools
 
