@@ -10,10 +10,10 @@
 <br />
 <br />
 
-- 💫 I’m currently working on building a new Portfolio
-- 🌱 Learning Java Basics and going deeper with HTML CSS and JS
+- 💫 I’m currently learning Docker & Kubernetes
+- 🌱 Working hard to become a better, more experienced developer
 - 📫 Contact me **alexander.nerz@web.de**
-- ⚡ Fun fact: I'm bouldering
+- ⚡ Fun fact: Climbing is my first choice of exercise
 
 <br />
 <br />
