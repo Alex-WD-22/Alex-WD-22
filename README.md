@@ -10,7 +10,7 @@
 <br />
 <br />
 
-- 💫 I’m currently learning Docker & Kubernetes
+- 💫 I’m currently learning Java
 - 🌱 Working hard to become a better, more experienced developer
 - 📫 Contact me **alexander.nerz@web.de**
 - ⚡ Fun fact: Climbing is my first choice of exercise
